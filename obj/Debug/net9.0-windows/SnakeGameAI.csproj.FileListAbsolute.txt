@@ -1,0 +1,17 @@
+D:\university\Csharp\final\bin\Debug\net9.0-windows\SnakeGameAI.exe
+D:\university\Csharp\final\bin\Debug\net9.0-windows\SnakeGameAI.deps.json
+D:\university\Csharp\final\bin\Debug\net9.0-windows\SnakeGameAI.runtimeconfig.json
+D:\university\Csharp\final\bin\Debug\net9.0-windows\SnakeGameAI.dll
+D:\university\Csharp\final\bin\Debug\net9.0-windows\SnakeGameAI.pdb
+D:\university\Csharp\final\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+D:\university\Csharp\final\obj\Debug\net9.0-windows\SnakeGameAI.csproj.AssemblyReference.cache
+D:\university\Csharp\final\obj\Debug\net9.0-windows\SnakeGameAI.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\Csharp\final\obj\Debug\net9.0-windows\SnakeGameAI.AssemblyInfoInputs.cache
+D:\university\Csharp\final\obj\Debug\net9.0-windows\SnakeGameAI.AssemblyInfo.cs
+D:\university\Csharp\final\obj\Debug\net9.0-windows\SnakeGameAI.csproj.CoreCompileInputs.cache
+D:\university\Csharp\final\obj\Debug\net9.0-windows\SnakeGam.35707FED.Up2Date
+D:\university\Csharp\final\obj\Debug\net9.0-windows\SnakeGameAI.dll
+D:\university\Csharp\final\obj\Debug\net9.0-windows\refint\SnakeGameAI.dll
+D:\university\Csharp\final\obj\Debug\net9.0-windows\SnakeGameAI.pdb
+D:\university\Csharp\final\obj\Debug\net9.0-windows\SnakeGameAI.genruntimeconfig.cache
+D:\university\Csharp\final\obj\Debug\net9.0-windows\ref\SnakeGameAI.dll
